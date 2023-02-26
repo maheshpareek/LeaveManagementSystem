@@ -1,0 +1,4 @@
+C:\Users\Panda\Desktop\MySpace\BCASEM-6\Project\LMS\LMS\bin\LMS.dll
+C:\Users\Panda\Desktop\MySpace\BCASEM-6\Project\LMS\LMS\bin\LMS.pdb
+C:\Users\Panda\Desktop\MySpace\BCASEM-6\Project\LMS\LMS\obj\Debug\LMS.dll
+C:\Users\Panda\Desktop\MySpace\BCASEM-6\Project\LMS\LMS\obj\Debug\LMS.pdb
